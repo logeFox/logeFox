@@ -1,16 +1,42 @@
-<h1 align="center">Hi there ♟️</h1>
+<a align="center">
+  <img src="https://raw.githubusercontent.com/logeFox/logeFox/main/img/test.png">
+	<h4>I want to get better at programming, but I have many things on my mind</h4>
+</a>
 
-<!--
-**InFoxTale/InFoxTale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Languages I use and try to improve at learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left" style="text-decoration: none;">
+  <a href="#">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/java.svg" style="vertical-align:top margin:6px 9px">
+  </a>
+
+  <a href="#">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/csharp_dotnet.svg" style="vertical-align:top margin:6px 9px">
+  </a>
+
+  <a href="#">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/python.svg" style="vertical-align:top margin:6px 9px">
+  </a>
+</p>
+
+### programmes and tools I use
+
+<p align="left" style="text-decoration: none;">
+  <a href="#">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/jetbrains_intellij.svg" style="vertical-align:top margin:6px 9px">
+  </a>  
+
+  <a href="#">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio.svg" style="vertical-align:top margin:6px 9px">
+  </a> 
+
+  <a href="#">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/visualstudio_code.svg" style="vertical-align:top margin:6px 9px">
+  </a>  
+
+  <a href="#">
+      <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/tools/docker.svg" style="vertical-align:top margin:6px 9px">
+  </a>
+</p>
