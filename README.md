@@ -1,7 +1,5 @@
-<a align="center">
-  <img src="https://raw.githubusercontent.com/logeFox/logeFox/main/img/test.png">
-	<h4>I want to get better at programming, but I have many things on my mind</h4>
-</a>
+<img style="border-radius: 5px;" src="https://raw.githubusercontent.com/logeFox/logeFox/main/img/test.png">
+<h3 align="center">I want to get better at programming, but I have many things on my mind</h3>
 
 ---
 
@@ -21,7 +19,7 @@
   </a>
 </p>
 
-### programmes and tools I use
+### Programmes and tools I use
 
 <p align="left" style="text-decoration: none;">
   <a href="#">
