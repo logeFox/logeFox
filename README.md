@@ -1,4 +1,4 @@
-<img style="border-radius: 5px;" src="https://raw.githubusercontent.com/logeFox/logeFox/main/img/JavaLangR.png">
+<img style="border-radius: 5px;" src="https://raw.githubusercontent.com/logeFox/JavaLang/master/img/JavaLangLib.png">
 <h3 align="center">I want to get better at programming, but I have many things on my mind</h3>
 
 ---
