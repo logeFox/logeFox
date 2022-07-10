@@ -1,5 +1,5 @@
 <img style="border-radius: 5px;" src="https://raw.githubusercontent.com/logeFox/JavaLang/master/img/JavaLangLib.png">
-<h3 align="center">I want to get better at programming, but I have many things on my mind</h3>
+<h3 align="center">I want to get better at programming, but I am lazy, and I hate it</h3>
 
 ---
 
